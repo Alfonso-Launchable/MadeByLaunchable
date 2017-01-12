@@ -282,11 +282,6 @@ header .header-content .inner p {
   width: auto; 
   height: auto;
   z-index: 1;
-  -webkit-filter: blur(15px);
-  -moz-filter: blur(15px);
-  -o-filter: blur(15px);
-  -ms-filter: blur(15px);
-  filter: blur(15px);
 }
 
 #video-background.collapsing {
