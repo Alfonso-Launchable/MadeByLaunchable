@@ -84,7 +84,7 @@ p {
 
 .bg-dark {
     color: #fff;
-    background-color: #222;
+    background-color: transparent;
 }
 
 .cursive { 
@@ -127,7 +127,7 @@ footer {
 .navbar-default {
     border-color: rgba(35,35,35,.05);
     font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
-    background-color: #222;
+    background-color: transparent;
     -webkit-transition: all .4s;
     -moz-transition: all .4s;
     transition: all .4s;
@@ -135,7 +135,7 @@ footer {
 
 .navbar-header > .navbar-brand {
     font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
-    color: #9c27b0;
+    color: #D2C6CA;
     padding: 15px;
     -webkit-transition: padding .2s ease-in;
     -moz-transition: padding .2s ease-in;
@@ -144,11 +144,11 @@ footer {
 
 .navbar-header > .navbar-brand:hover,
 .navbar-header > .navbar-brand:focus {
-    color: #8b27b0;
+    color: #f4f4f4;
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #181818;
+    background-color: transparent;
 }
 .navbar-default .navbar-toggle, .navbar-default .navbar-collapse {
     border-color: transparent;
@@ -164,12 +164,12 @@ footer {
 
 .navbar-default .nav > li>a:hover,
 .navbar-default .nav>li>a:focus:hover {
-    color: #9c27b0;
+    color: #f4f4f4;
 }
 
 .navbar-default .nav > li.active>a,
 .navbar-default .nav>li.active>a:focus {
-    color: #9c27b0 !important;
+    color: #D2C6CA !important;
     background-color: transparent;
 }
 
@@ -188,7 +188,7 @@ footer {
     }
 
     .navbar-header > .navbar-brand {
-        color: rgba(255,255,255,0.7);
+        color: ;
         padding: 19px;
     }
 
@@ -199,7 +199,7 @@ footer {
 
     .navbar-default .nav > li>a,
     .navbar-default .nav>li>a:focus {
-        color: rgba(255,255,255,0.8);
+        color: #000000;
         padding: 20px;
         letter-spacing: 1.1px;
         text-shadow: 1px 1px 1px rgba(60,60,60,0.7);
@@ -207,24 +207,24 @@ footer {
 
     .navbar-default .nav > li>a:hover,
     .navbar-default .nav>li>a:focus:hover {
-        color: #fefefe;
+        color: #f4f4f4;
     }
 
     .navbar-default.affix {
         border-color: rgba(34,34,34,.05);
-        background-color: #222;
+        background-color: transparent;
     }
 
     .navbar-default.affix .navbar-header .navbar-brand {
         font-size: 15px;
-        color: #9c27b0;
+        color: #D2C6CA;
         padding: 20px;
         letter-spacing: 1px;
     }
 
     .navbar-default.affix .navbar-header .navbar-brand:hover,
     .navbar-default.affix .navbar-header .navbar-brand:focus {
-        color: #8b27b0;
+        color: #f4f4f4;
     }
 
     .navbar-default.affix .nav > li>a,
@@ -235,7 +235,7 @@ footer {
 
     .navbar-default.affix .nav > li>a:hover,
     .navbar-default.affix .nav>li>a:focus:hover {
-        color: #9c27b0;
+        color: #f4f4f4;
     }
 }
 
@@ -452,7 +452,7 @@ textarea {
 .btn-default.active,
 .open > .dropdown-toggle.btn-default {
     border-color: #ededed;
-    color: #222;
+    color: transparent;
     background-color: #f2f2f2;
     opacity: 0.7;
 }
