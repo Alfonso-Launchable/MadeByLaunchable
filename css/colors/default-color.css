@@ -1,0 +1,93 @@
+span {
+	color: #FA6502;
+}
+.navbar-custom .navbar-toggle {
+    background: #FA6502;
+}
+.navbar-custom .nav > li > a:focus,
+.navbar-custom .nav > li > a:hover,
+.navbar-custom .nav > li.active > a,
+.navbar-custom .nav .open > a,
+.navbar-custom .nav .open > a:focus,
+.navbar-custom .nav .open > a:hover {
+    background-color: #FA6502;
+    color: #fff;
+}
+.section-title-left::after , .section-title::after , .single-pricing-table .pricing-title h2::after {
+  background: #FA6502 none repeat scroll 0 0;
+
+}
+.about-us-right .media:hover  .fa::before {
+    background-color: #FA6502;
+}
+.single-service .media .fa::before {
+  background: #FA6502 none repeat scroll 0 0;
+}
+.single-service .media:hover {
+    background-color: #FA6502;
+}
+.single-service .media:hover .fa::before {
+    color: #FA6502;
+}
+.testimonial-body::before {
+  color: #FA6502;
+}
+.client-name::before {
+  background: #FA6502 none repeat scroll 0 0;
+}
+#testimonial-carousel .owl-controls .owl-buttons .owl-prev:hover , #testimonial-carousel .owl-controls .owl-buttons .owl-next:hover {
+	background: #FA6502;
+	border: 1px solid transparent;
+	color: #fff;
+}
+.portfolio-filter-nav ul li:hover {
+    background: #FA6502 none repeat scroll 0 0;
+}
+.portfolio-filter-nav ul li.active {
+    background: #FA6502 none repeat scroll 0 0;
+}
+.single-pricing-table:hover .price , .single-pricing-table:hover .pricing-buttons button.buy-btn , .table-active .price {
+    background-color: #FA6502;
+}
+ .table-active .pricing-buttons button.buy-btn {
+    background-color: #FA6502 !important;
+    color: #fff !important;
+    border: 1px solid transparent !important;
+}
+.our-partners-section {
+	background-color: #FA6502;
+}
+.blog-post-details .post-heading em a {
+	color: #FA6502 !important;
+}
+.blog-post-details button.read-more-btn {
+    background: #FA6502 none repeat scroll 0 0;
+}
+.form-control:focus {
+    border-color: #FA6502;
+}
+.social-icons a .fa:hover {
+    background: #FA6502;
+}
+.portfolio-button button.portfolio-btn {
+    border: 2px solid #FA6502;
+    color: #FA6502;
+}
+.portfolio-button button.portfolio-btn:hover {
+    background-color: #FA6502;
+}
+.thumbnails:hover .portfolio-overlay {
+    background-color: #FA6502;
+}
+button.sl-prev .fa, button.sl-next .fa {
+    color: #FA6502;
+}
+.contact-form-section button.btn-contact {
+	background-color: #FA6502;
+}
+#main-slide .carousel-control i {
+    color: #FA6502;
+}
+#main-slide .carousel-control i:hover{
+    background: #FA6502;
+}
