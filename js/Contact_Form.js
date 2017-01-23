@@ -7,7 +7,7 @@
         method: "post",
         dataType: "json",
         accepts: "application/json",
-        data: $("#thisForm").serialize(),
+        data: $("#contactForm").serialize(),
         success: function(){
           console.log("Your form was successfully received!");
         },
