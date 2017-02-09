@@ -87,7 +87,7 @@ a,
     transition: all 0.2s ease;
 }
 #qLpercentage {
-    font-family: 'Roboto', sans-serif;
+    font-family:  Futura, 'Trebuchet MS', Arial, sans-serif;
     font-weight: 800;
 }
 
@@ -458,7 +458,7 @@ ul {
     color: #fff;
 }
 .text-rotator-bg h1 {
-    font-family: 'Roboto', sans-serif;
+    font-family:  Futura, 'Trebuchet MS', Arial, sans-serif;
 }
 /* Paricle BG */
 #particles-js {
@@ -982,7 +982,7 @@ button.sl-prev .fa, button.sl-next .fa {
 }
 
 .our-awards-section strong span {
-    font-family: 'Roboto', sans-serif;
+    font-family:  Futura, 'Trebuchet MS', Arial, sans-serif;
     color: #fff;
     display: block;
     font-weight: 500;
@@ -1027,7 +1027,7 @@ span.count-description {
             transition: all 0.4s ease-in-out 0s;
 }
 .single-pricing-table .price h1 {
-    font-family: 'Roboto', sans-serif;
+    font-family:  Futura, 'Trebuchet MS', Arial, sans-serif;
     font-size: 23px;
     font-weight: 400;
     -webkit-transition: all 0.4s ease-in-out 0s;
@@ -1134,7 +1134,7 @@ box-shadow: inset 0px 2px 25px -8px rgba(0,0,0,0.76);
     font-style: italic;
     color: #808080;
     font-size: 16px;
-    font-family: 'Roboto', sans-serif;
+    font-family:  Futura, 'Trebuchet MS', Arial, sans-serif;
 }
 .blog-post-details p {
     color: #808080;
@@ -1241,7 +1241,7 @@ box-shadow: inset 0px 2px 25px -8px rgba(0,0,0,0.76);
     font-size: 16px;
     border: none;
     padding: 20px 0;
-    font-family: 'Roboto', sans-serif;
+    font-family:  Futura, 'Trebuchet MS', Arial, sans-serif;
     letter-spacing: 1px;
     letter-spacing: 0.1rem;
 }
@@ -1314,3 +1314,8 @@ box-shadow: inset 0px 2px 25px -8px rgba(0,0,0,0.76);
     align-items: center;
     box-shadow: 0px 0px 15px 0px #ddd;
 }
+
+
+
+
+
