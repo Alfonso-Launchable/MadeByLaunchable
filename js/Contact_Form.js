@@ -3,7 +3,7 @@
     $("#contactForm").submit(function(event){
       event.preventDefault();
       $.ajax({
-        url: "https://www.formspree.io/hello@temalaunchable.com",
+        url: "https://www.formspree.io/alfred@teamlaunchable.com",
         method: "post",
         dataType: "json",
         accepts: "application/json",
